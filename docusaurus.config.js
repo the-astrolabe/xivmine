@@ -10,20 +10,20 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Astrolabe Website (TBD)',
-  tagline: 'A FFXIV Savage and Extreme repository for old fights.',
+  title: 'Astrolabe Website (TBD)', // to be changed
+  tagline: 'A FFXIV Savage and Extreme repository for old fights.', // to be changed
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://xivmine.pages.dev/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'the-astrolabe', // Usually your GitHub org/user name.
+  projectName: 'xivmine', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -47,7 +47,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/the-astrolabe/xivmine/tree/production',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -107,7 +107,7 @@ const config = {
           },
           {
             position: 'right',
-            to: 'https://github.com/EpicTeddy101/astrolabe-website',
+            to: 'https://github.com/the-astrolabe/xivmine',
             className: 'header-github',
             'aria-label': 'GitHub Repository',
           },
