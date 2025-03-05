@@ -70,7 +70,7 @@ const config = {
         title: 'Astrolate Website',
         logo: {
           alt: 'Astrolabe Website Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.webp',
         },
         items: [
           {
@@ -108,13 +108,13 @@ const config = {
           {
             position: 'right',
             to: 'https://github.com/the-astrolabe/xivmine',
-            className: 'header-github',
-            'aria-label': 'GitHub Repository',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
           },
           {
             position: 'right',
             to: 'https://discord.gg/eByG8hraBM',
-            className: 'header-discord',
+            className: 'header-discord-link',
             'aria-label': 'Discord Server',
           },
         ],
