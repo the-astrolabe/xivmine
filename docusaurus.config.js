@@ -155,6 +155,10 @@ const config = {
                 label: 'Discord',
                 href: 'https://discord.gg/eByG8hraBM',
               },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/the-astrolabe/xivmine',
+              }
             ],
           },
         ],
