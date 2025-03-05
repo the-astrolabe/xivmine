@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Astrolabe Website (TBD)', // to be changed
+  title: 'XIVMine', // to be changed
   tagline: 'A FFXIV Savage and Extreme repository for old fights.', // to be changed
   favicon: 'img/favicon.ico',
 
@@ -67,10 +67,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Astrolate Website',
+        title: 'XIVMine',
         logo: {
-          alt: 'Astrolabe Website Logo',
-          src: 'img/logo.svg',
+          alt: 'XIVMine Logo',
+          src: 'img/logo.webp',
         },
         items: [
           {
@@ -108,13 +108,13 @@ const config = {
           {
             position: 'right',
             to: 'https://github.com/the-astrolabe/xivmine',
-            className: 'header-github',
-            'aria-label': 'GitHub Repository',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
           },
           {
             position: 'right',
             to: 'https://discord.gg/eByG8hraBM',
-            className: 'header-discord',
+            className: 'header-discord-link',
             'aria-label': 'Discord Server',
           },
         ],
