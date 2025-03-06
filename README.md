@@ -7,10 +7,10 @@ If you wish to contribute, instructions are below. If you are not comfortable wi
 
 ## How To Contribute
 
-1. Fork and Clone the Repository
-2. Setup Your Development Environment
-3. Make and Test Your Changes
-4. Create a Pull Request
+1. [Fork and Clone the Repository](https://github.com/the-astrolabe/xivmine?tab=readme-ov-file#fork-and-clone-the-repository)
+2. [Setup Your Development Environment](https://github.com/the-astrolabe/xivmine?tab=readme-ov-file#setup-your-development-environment)
+3. [Make and Test Your Changes](https://github.com/the-astrolabe/xivmine?tab=readme-ov-file#make-and-test-your-changes)
+4. [Create a Pull Request](https://github.com/the-astrolabe/xivmine?tab=readme-ov-file#create-a-pull-request)
 
 ### Fork and Clone the Repository
 1. Fork the repository by clicking the **Fork** button in the top right corner of the page.
