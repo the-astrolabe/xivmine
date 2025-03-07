@@ -58,3 +58,23 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.waymark-a, .waymark-1 {
+  font-weight: bold;
+  color: #f90e68;
+}
+
+.waymark-b, .waymark-2 {
+  font-weight: bold;
+  color: #f4cf00;
+}
+
+.waymark-c, .waymark-3 {
+  font-weight: bold;
+  color: #1f8bfF;
+}
+
+.waymark-d, .waymark-4 {
+  font-weight: bold;
+  color: #823eff;
+}
