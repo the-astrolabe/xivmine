@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Up-to-Date Raid Guides',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default, // need to find appropriate png and convert to WEBP
+    Svg: require('@site/static/img/ffxiv-symbol-white.svg').default,
     description: (
       <>
         Created and curated by FFXIV raiders, this website offers updated guides for older raid content, including guides, waymarks, and other community resources, all in one place.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Discord Community',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default, // need to find appropriate png and convert to WEBP
+    Svg: require('@site/static/img/discord-symbol-white.svg').default,
     description: (
       <>
         Join our Discord Server to socialize amongst fellow raiders and share thoughts and opinions with other like-minded people!
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Community-Made Content',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default, // need to find appropriate png and convert to WEBP
+    Svg: require('@site/static/img/github-symbol-white.svg').default, // need to find appropriate png and convert to WEBP
     description: (
       <>
         XIVMine is an open-source project, allowing anyone to contribute to the website. If you are interested in contributing, please visit the GitHub repository.
