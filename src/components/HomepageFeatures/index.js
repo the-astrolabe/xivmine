@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Up-to-Date Raid Guides',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default, // need to find appropriate png and convert to WEBP
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Created and curated by FFXIV raiders, this website offers updated guides for older raid content, including guides, waymarks, and other community resources, all in one place.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Discord Community',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default, // need to find appropriate png and convert to WEBP
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Join our Discord Server to socialize amongst fellow raiders and share thoughts and opinions with other like-minded people!
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Community-Made Content',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default, // need to find appropriate png and convert to WEBP
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        XIVMine is an open-source project, allowing anyone to contribute to the website. If you are interested in contributing, please visit the GitHub repository.
       </>
     ),
   },
