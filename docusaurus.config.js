@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'XIVMine', // to be changed
-  tagline: 'A FFXIV Savage and Extreme repository for old fights.', // to be changed
+  tagline: 'A FFXIV Savage and Extreme resource collection for old fights.', // to be changed
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
