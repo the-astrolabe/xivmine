@@ -3,7 +3,16 @@
   text-align: center;
   position: relative;
   overflow: hidden;
-  height: 50vh; /* Adjust height as needed */
+  height: 50vh; 
+  color: #ffffff; 
+  background-image: url('/img/hero-background.svg'); 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+}
+
+.heroBackground {
+  display: none;
 }
 
 .heroContent {
@@ -11,6 +20,8 @@
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
+  position: relative; 
+  z-index: 1; 
 }
 
 .heroText {
@@ -25,14 +36,15 @@
 }
 
 .homepageRaidsIcon {
-  width: 100%; /* Make the image take the full width of its container */
-  height: auto; /* Maintain the aspect ratio */
-  max-width: 50%; /* Set a maximum width to prevent it from getting too large */
+  width: 100%; 
+  height: auto; 
+  max-width: 50%; 
 }
 
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
+    height: auto;
   }
   .heroContent {
     flex-direction: column;
@@ -46,6 +58,6 @@
     margin-bottom: 1rem;
   }
   .homepageRaidsIcon {
-    max-width: 100%; /* Ensure the image scales down on smaller screens */
+    max-width: 80%; 
   }
 }
