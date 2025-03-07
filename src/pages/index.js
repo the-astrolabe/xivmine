@@ -12,10 +12,17 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <div className={styles.heroContent}>
+          <div className={styles.heroText}>
+            <Heading as="h1" className="hero__title">
+              {siteConfig.title}
+            </Heading>
+            <p className="hero__subtitle">{siteConfig.tagline}</p>
+          </div>
+          <div className={styles.heroImage}>
+            <img src="/img/homepage-raids-icon-large.png" alt="FFXIV Raid Icon" className={styles.homepageRaidsIcon} />
+          </div>
+        </div>
       </div>
     </header>
   );
