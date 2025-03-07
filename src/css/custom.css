@@ -46,18 +46,6 @@
   width: 24px;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #ff5722; 
-  --ifm-color-primary-dark: #e64a19; 
-  --ifm-color-primary-darker: #d84315; 
-  --ifm-color-primary-darkest: #bf360c; 
-  --ifm-color-primary-light: #ff7043; 
-  --ifm-color-primary-lighter: #ff8a65; 
-  --ifm-color-primary-lightest: #ffab91; 
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-}
-
 .waymark-a, .waymark-1 {
   font-weight: bold;
   color: #f90e68;
