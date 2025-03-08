@@ -20,7 +20,7 @@ function HomepageHeader() {
             <p className="hero__subtitle">{siteConfig.tagline}</p>
           </div>
           <div className={styles.heroImage}>
-            <img src="/img/homepage-raids-icon-large.png" alt="FFXIV Raid Icon" className={styles.homepageRaidsIcon} /> 
+            <img src="/img/homepage-raids-icon-large.webp" alt="FFXIV Raid Icon" className={styles.homepageRaidsIcon} /> 
           </div>
         </div>
       </div>

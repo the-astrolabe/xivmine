@@ -6,7 +6,7 @@ const FeatureList = [
   {
     title: 'Up-to-Date Raid Guides',
     link: '', // No link for this title
-    Svg: require('@site/static/img/ffxiv-symbol-white.svg').default,
+    Svg: require('@site/static/img/ffxiv-symbol.svg').default,
     description: (
       <>
         Created and curated by FFXIV raiders, this website offers updated guides for older raid content, including guides, waymarks, and other community resources, all in one place.
@@ -16,7 +16,7 @@ const FeatureList = [
   {
     title: 'Discord Community',
     link: 'https://discord.gg/eByG8hraBM', // Add the link here
-    Svg: require('@site/static/img/discord-symbol-white.svg').default,
+    Svg: require('@site/static/img/discord-symbol.svg').default,
     description: (
       <>
         Join our Discord Server to socialize amongst fellow raiders and share thoughts and opinions with other like-minded people!
@@ -26,7 +26,7 @@ const FeatureList = [
   {
     title: 'Community-Made Content',
     link: 'https://github.com/the-astrolabe/xivmine', // Add the link here
-    Svg: require('@site/static/img/github-symbol-white.svg').default,
+    Svg: require('@site/static/img/github-symbol.svg').default,
     description: (
       <>
         XIVMine is an open-source project, allowing anyone to contribute to the website. If you are interested in contributing, please visit the GitHub repository.
