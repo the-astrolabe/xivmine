@@ -56,11 +56,11 @@
 }
 
 .header-github-link:before {
-  background-image: url('/static/img/github-symbol-white.svg');
+  background-image: url('/static/img/github-symbol.svg');
 }
 
 .header-discord-link:before {
-  background-image: url('/static/img/discord-symbol-white.svg');
+  background-image: url('/static/img/discord-symbol.svg');
 }
 
 .waymark-a, .waymark-1 {
