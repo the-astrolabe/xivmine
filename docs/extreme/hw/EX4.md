@@ -6,3 +6,5 @@ description: EX4 - Sephirot page.
 sidebar_custom_props:
     cardImage: 'extreme/hw/ex4.webp'
 ---
+
+![Sephirot](/extreme/hw/ex4-banner.webp)

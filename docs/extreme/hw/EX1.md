@@ -6,3 +6,5 @@ description: EX1 - Bismarck page.
 sidebar_custom_props:
     cardImage: 'extreme/hw/ex1.webp'
 ---
+
+![Bismarck](/extreme/hw/ex1-banner.webp)

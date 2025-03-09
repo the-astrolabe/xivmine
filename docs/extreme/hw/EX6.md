@@ -6,3 +6,5 @@ description: EX6 - Sophia page.
 sidebar_custom_props:
     cardImage: 'extreme/hw/ex6.webp'
 ---
+
+![Sophia](/extreme/hw/ex6-banner.webp)

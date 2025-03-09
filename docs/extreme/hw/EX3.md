@@ -6,3 +6,5 @@ description: EX3 - King Thordan page.
 sidebar_custom_props:
     cardImage: 'extreme/hw/ex3.webp'
 ---
+
+![King Thordan](/extreme/hw/ex3-banner.webp)

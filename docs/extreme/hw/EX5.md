@@ -6,3 +6,5 @@ description: EX5 - Nidhogg page.
 sidebar_custom_props:
     cardImage: 'extreme/hw/ex5.webp'
 ---
+
+![Nidhogg](/extreme/hw/ex5-banner.webp)

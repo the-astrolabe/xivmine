@@ -6,3 +6,5 @@ description: EX5 - Good King Moggle Mog XII page.
 sidebar_custom_props:
     cardImage: 'extreme/arr/ex5.webp'
 ---
+
+![Good King Moggle Mog XII](/extreme/arr/ex5-banner.webp)

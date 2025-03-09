@@ -6,3 +6,5 @@ description: EX4 - Ifrit page.
 sidebar_custom_props:
     cardImage: 'extreme/arr/ex4.webp'
 ---
+
+![Ifrit](/extreme/arr/ex4-banner.webp)
