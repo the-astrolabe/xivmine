@@ -4,5 +4,8 @@
   "link": {
     "type": "generated-index",
     "slug": "/final-coil"
-  }
+  },
+  "customProps": {
+      "cardImage": "savage/coil/final-coil.webp"
+    }
 }

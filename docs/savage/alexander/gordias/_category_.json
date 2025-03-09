@@ -4,6 +4,8 @@
     "link": {
       "type": "generated-index",
       "slug": "/gordias"
+    },
+    "customProps": {
+      "cardImage": "savage/alexander/gordias.webp"
     }
-  }
-  
+}

@@ -4,6 +4,8 @@
     "link": {
       "type": "generated-index",
       "slug": "/deltascape"
+    },
+    "customProps": {
+      "cardImage": "savage/omega/deltascape.webp"
     }
-  }
-  
+}

@@ -4,7 +4,7 @@ slug: /a8s
 title: A8S
 description: A8S page.
 sidebar_custom_props:
-    cardImage: 'savage/alexander/a8s.png'
+    cardImage: 'savage/alexander/a8s.webp'
 ---
 
 ![A8S](/savage/alexander/a8s-banner.webp)

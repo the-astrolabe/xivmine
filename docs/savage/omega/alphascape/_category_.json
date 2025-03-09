@@ -4,6 +4,8 @@
     "link": {
       "type": "generated-index",
       "slug": "/alphascape"
+    },
+    "customProps": {
+      "cardImage": "savage/omega/alphascape.webp"
     }
-  }
-  
+}
