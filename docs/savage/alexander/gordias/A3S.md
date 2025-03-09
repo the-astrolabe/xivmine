@@ -1,10 +1,10 @@
 ---
 sidebar_position: 3
 slug: /a3s
-title: A1S
-description: A1S page.
+title: A3S
+description: A3S page.
 sidebar_custom_props:
-    cardImage: 'savage/alexander/a1s.png'
+    cardImage: 'savage/alexander/a3s.png'
 ---
 
 ![A3S](/savage/alexander/a3s-banner.webp)
