@@ -3,7 +3,9 @@
   "position": 1,
   "link": {
     "type": "generated-index",
-    "description": "Binding Coil Description",
     "slug": "/binding-coil"
-  }
+  },
+  "customProps": {
+      "cardImage": "savage/coil/binding-coil.webp"
+    }
 }
