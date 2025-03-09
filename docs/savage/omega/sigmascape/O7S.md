@@ -1,8 +1,8 @@
 ---
 sidebar_position: 3
 slug: /o7s
-title: O7S
-description: O7S page.
+title: O7S - Guardian
+description: O7S - Guardian page.
 sidebar_custom_props:
     cardImage: 'savage/omega/o7s.webp'
 ---

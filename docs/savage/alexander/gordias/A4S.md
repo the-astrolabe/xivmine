@@ -1,8 +1,8 @@
 ---
 sidebar_position: 4
 slug: /a4s
-title: A4S
-description: A4S page.
+title: A4S - The Manipulator
+description: A4S - The Manipulator page.
 sidebar_custom_props:
     cardImage: 'savage/alexander/a4s.webp'
 ---

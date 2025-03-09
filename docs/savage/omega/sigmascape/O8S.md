@@ -1,8 +1,8 @@
 ---
 sidebar_position: 4
 slug: /o8s
-title: O8S
-description: O8S page.
+title: O8S - Kefka
+description: O8S - Kefka page.
 sidebar_custom_props:
     cardImage: 'savage/omega/o8s.webp'
 ---

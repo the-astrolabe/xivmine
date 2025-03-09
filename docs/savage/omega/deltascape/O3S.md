@@ -1,8 +1,8 @@
 ---
 sidebar_position: 3
 slug: /o3s
-title: O3S
-description: O3S page.
+title: O3S - Halicarnassus
+description: O3S - Halicarnassus page.
 sidebar_custom_props:
     cardImage: 'savage/omega/o3s.webp'
 ---

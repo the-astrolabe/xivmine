@@ -1,8 +1,8 @@
 ---
 sidebar_position: 2
 slug: /t7s
-title: T7S
-description: T7S page.
+title: T7S - Melusine
+description: T7S - Melusine page.
 sidebar_custom_props:
     cardImage: 'savage/coil/t7.webp'
 ---
