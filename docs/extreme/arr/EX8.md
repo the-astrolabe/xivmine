@@ -6,3 +6,5 @@ description: EX8 - Shiva page.
 sidebar_custom_props:
     cardImage: 'extreme/arr/ex8.webp'
 ---
+
+![Shiva](/extreme/arr/ex8-banner.webp)

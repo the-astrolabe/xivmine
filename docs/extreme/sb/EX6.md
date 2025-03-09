@@ -6,3 +6,5 @@ description: EX6 - Rathalos page.
 sidebar_custom_props:
     cardImage: 'extreme/sb/ex6.webp'
 ---
+
+![Rathalos](/extreme/sb/ex6-banner.webp)

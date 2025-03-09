@@ -6,3 +6,5 @@ description: EX7 - Zurvan page.
 sidebar_custom_props:
     cardImage: 'extreme/hw/ex7.webp'
 ---
+
+![Zurvan](/extreme/hw/ex7-banner.webp)
