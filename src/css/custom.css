@@ -92,3 +92,10 @@
   font-weight: bold;
   color: #823eff;
 }
+
+.footer--dark {
+  --ifm-footer-background-color: #242526;
+  --ifm-footer-color: var(--ifm-footer-link-color);
+  --ifm-footer-link-color: var(--ifm-color-secondary);
+  --ifm-footer-title-color: var(--ifm-color-white)
+}
