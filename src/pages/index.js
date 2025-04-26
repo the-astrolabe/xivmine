@@ -1,16 +1,16 @@
-import clsx from 'clsx';
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import clsx from "clsx";
+import Link from "@docusaurus/Link";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import Layout from "@theme/Layout";
+import HomepageFeatures from "@site/src/components/HomepageFeatures";
 
-import Heading from '@theme/Heading';
-import styles from './index.module.css';
+import Heading from "@theme/Heading";
+import styles from "./index.module.css";
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+    <header className={clsx("hero hero--primary", styles.heroBanner)}>
       <div className="container">
         <div className={styles.heroContent}>
           <div className={styles.heroText}>
@@ -20,7 +20,11 @@ function HomepageHeader() {
             <p className="hero__subtitle">{siteConfig.tagline}</p>
           </div>
           <div className={styles.heroImage}>
-            <img src="/img/homepage-raids-icon-large.webp" alt="FFXIV Raid Icon" className={styles.homepageRaidsIcon} /> 
+            <img
+              src="/img/homepage-bosses.webp"
+              alt="FFXIV Raid Icon"
+              className={styles.homepageRaidsIcon}
+            />
           </div>
         </div>
       </div>
@@ -29,11 +33,9 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout
-      title={``}
-      description="Homepage for XIVMine.">
+    <Layout title={``} description="Homepage for XIVMine.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
