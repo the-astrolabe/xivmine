@@ -1,0 +1,11 @@
+{
+    "label": "Midas",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "slug": "/midas"
+    },
+    "customProps": {
+      "cardImage": "savage/alexander/midas.webp"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "label": "The Creator",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "slug": "/the-creator"
+    },
+    "customProps": {
+      "cardImage": "savage/alexander/the-creator.webp"
+    }
+}

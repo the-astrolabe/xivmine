@@ -1,9 +1,0 @@
-{
-  "label": "Binding Coil",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "description": "Binding Coil Description",
-    "slug": "/binding-coil"
-  }
-}

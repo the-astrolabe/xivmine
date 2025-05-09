@@ -1,0 +1,11 @@
+{
+    "label": "Sigmascape",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "slug": "/sigmascape"
+    },
+    "customProps": {
+      "cardImage": "savage/omega/sigmascape.webp"
+    }
+}
