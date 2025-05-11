@@ -1,0 +1,11 @@
+{
+  "label": "Verse",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "slug": "/eden/verse"
+  },
+  "customProps": {
+      "cardImage": "savage/eden/verse/e1s-banner.webp"
+    }
+}
