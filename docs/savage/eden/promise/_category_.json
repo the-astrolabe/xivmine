@@ -1,0 +1,11 @@
+{
+  "label": "Promise",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "slug": "/eden/promise"
+  },
+  "customProps": {
+      "cardImage": "savage/eden/promise/e5s-banner.webp"
+    }
+}

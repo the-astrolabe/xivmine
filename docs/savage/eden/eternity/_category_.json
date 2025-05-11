@@ -1,0 +1,11 @@
+{
+  "label": "Eternity",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "slug": "/eden/eternity"
+  },
+  "customProps": {
+      "cardImage": "savage/eden/eternity/e9s-banner.webp"
+    }
+}
