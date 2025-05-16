@@ -1,0 +1,11 @@
+{
+  "label": "Gate",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "slug": "/eden/gate"
+  },
+  "customProps": {
+      "cardImage": "savage/eden/gate/e1s-banner.webp"
+    }
+}
