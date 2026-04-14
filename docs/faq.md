@@ -23,4 +23,4 @@ Yes! You can utilize [this spreadsheet](https://docs.google.com/spreadsheets/d/1
 - Despite the job changes over the years, some may wish that their jobs were still locked to the level that the content was released at.
 
 ## Can I contribute to the website? 
-Yes! You can contribute to the website through the [GitHub repository](https://github.com/the-astrolabe/xivmine), where instructions can be found. If you are not comfortable with editing content via GitHub, you can contribute and suggest feedback via our [Discord Server.]([https://discord.gg/eByG8hraBM](https://discord.gg/eByG8hraBM "https://discord.gg/eByG8hraBM"))
+Yes! You can contribute to the website through the [GitHub repository](https://github.com/the-astrolabe/xivmine), where instructions can be found. If you are not comfortable with editing content via GitHub, you can contribute and suggest feedback via our [Discord Server.](https://discord.gg/eByG8hraBM)
