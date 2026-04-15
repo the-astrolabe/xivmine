@@ -81,12 +81,14 @@ const config = {
               {
                 type: 'docSidebar',
                 sidebarId: 'savageSidebar',
-                label: 'Savage Raids'
+                label: 'Savage Raids',
+                to: '/savage-raids'
               },
               {
                 type: 'docSidebar',
                 sidebarId: 'trialSidebar',
-                label: 'Extreme Trials'
+                label: 'Extreme Trials',
+                to: '/extreme-trials'
               }
             ]
           },
@@ -127,11 +129,11 @@ const config = {
             items: [
               {
                 label: 'Savage Raids',
-                to: '/coil', // To be changed to own page
+                to: '/savage-raids',
               },
               {
                 label: 'Extreme Trials', 
-                to: '/arr-ex', // To be changed to own page
+                to: '/extreme-trials',
               }
             ],
           },
