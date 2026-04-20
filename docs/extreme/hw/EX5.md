@@ -42,6 +42,11 @@ The group should stack in the middle of the arena to bait **Horrid Roar** circle
 
 For this attack, the North and East walls are paired and the South and West walls are paired so if he appears North for his first attack, his second attack will be either South or West.
 
+### Phase 2
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODY5MTI1NjMsMTk3NTY0MzE0Ml19
+eyJoaXN0b3J5IjpbMTMyNDgyOTc0NywtMTg4NjkxMjU2MywxOT
+c1NjQzMTQyXX0=
 -->
