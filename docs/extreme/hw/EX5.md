@@ -68,9 +68,9 @@ Once the Dragon is dead, Nidhogg will cast **Mortal Chorus** which removes the v
 
 ### Phase 3
 
-Nidhogg switches to human form for this phase and will begin with cleaves on the main tank. Main tank should keep him in the centre of the arena but point him North with the party stacked on the south end of his hitbox as in Phase 1. Four of the DPS/healers will be targeted with **High Jump**, a large AOE circle. These players should spread the circles along the edge of the South wall. Once these AOEs drop, the players will need to move out of the puddles and the entire party will need to dodge **Geirskogul** rectangles that appear. At the same time, one of the **High Jump** victims will be targeted with **Soul Tether**. This is a purple tether attached to the player that the off tank will need to intercept and keep away from the party as it will instantly kill anyone else. Be sure to mitigate the hit.
+Nidhogg switches to human form for this phase and will begin with cleaves on MT so they should keep him in the centre of the arena but point him North with the party stacked on the south end of his hitbox as in Phase 1. Four of the DPS/healers will be targeted with **High Jump**, a large AoE circle. These players should spread the circles along the edge of the South wall. Once these AoEs drop, the players will need to move out of the bleed puddles and the entire party will need to dodge the **Geirskogul** rectangles that appear. At the same time, one of the **High Jump** victims will be targeted with **Soul Tether**. This is a purple tank buster tether attached to the player that OT will need to intercept and take away from the party as it will instantly kill anyone else. Be sure to mitigate the hit.
 
-All this action will be followed by **Ala Morn**, a heavy-hitting tank buster that you need to mitigate and shield through and then we enter the second half of the phase.
+All this action will be followed by **Ala Morn**, a heavy-hitting tank buster on MT that you need to mitigate and shield through and then we enter the second half of the phase.
 
 Nidhogg will summon his **Fang** (blue) and his **Claw** (red) and 3 players will receive blue chains and 3 red chains. The entire party (except one of the tanks) will focus down the blue fang and players with blue chains need to avoid taking damage because it will cause the fang to heal itself. The red claw on the other hand, is defeated by players with red chains taking damage.
 
@@ -84,6 +84,6 @@ If you are successful in defeating both the fang and the claw, the phase continu
 
 This will all be followed by more tank busters and then Phase 5 begins!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQ5ODgzNzYsLTE4ODY5MTI1NjMsMT
+eyJoaXN0b3J5IjpbLTEwNTQ5MzQ5NTUsLTE4ODY5MTI1NjMsMT
 k3NTY0MzE0Ml19
 -->
