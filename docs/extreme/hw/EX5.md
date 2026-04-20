@@ -90,12 +90,12 @@ This will all be followed by more tank busters and then Phase 4 begins!
 
 MT will take the tower at 1 and their healer partner will move to A as they will receive a large AoE circle (**High Jump**). OT will take the tower at 2 and their healer partner will move to B.
 
-For the 2 DPS pairs, the player in each pair with the highest health will take the tower at either 3 or 4 and the other player will move toward a wall in the same area. The healers will be far away so use your self-heals when necessary.
+For the 2 DPS pairs, at least 1 player needs to stand in the towers at 3 and 4. After the tower explodes, all DPS should move towards a wall for a potential AoE hit. The healers will be far away so use your self-heals when necessary.
 
-After towers leave their fire puddles and the healers drop their AOE circles, each healer will receive **Soul Tether** and these will need to be intercepted by their respective tank. You can do this by having the healers move toward the centre of the North wall or by moving South along the East and West walls, whichever you prefer.
+After towers leave their fire puddles and the healers drop their AoE circles, each healer will receive **Soul Tether** and these will need to be intercepted by their respective tank. You can do this by having the healers move toward the centre of the North wall or by moving South along the East and West walls, whichever you prefer.
 
-At the same time, some players will be marked with AOE circles and one with **Super Jump** which spawns a proximity meteor. All of these should be dropped against a wall, preferably near a corner. **Geirskogul** rectangles will also be spawning around the arena and need to be avoided. Once tethers resolve and the player is hit with **Super Jump**, the entire party needs to move as far away from the meteor as possible while avoiding the tower, fire puddles, circle AOEs, and rectangles. If you do all of this successfully, you move on to the final phase!
+At the same time, some players will be marked with AoE circles and one with **Super Jump** which spawns a proximity meteor. All of these should be dropped against a wall, preferably near a corner. **Geirskogul** rectangles will also be spawning around the arena and need to be avoided. Once tethers resolve and the player is hit with **Super Jump**, the entire party needs to move as far away from the meteor as possible while avoiding the tower, fire puddles, circle AOEs, and rectangles. If you do all of this successfully, you move on to the final phase!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzM2NzgyNTUsLTE4ODY5MTI1NjMsMT
-k3NTY0MzE0Ml19
+eyJoaXN0b3J5IjpbMTg5MzU5NDQ4MCwtMTg4NjkxMjU2MywxOT
+c1NjQzMTQyXX0=
 -->
