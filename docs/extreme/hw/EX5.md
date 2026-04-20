@@ -20,7 +20,9 @@ This is the raid guide I made with images of where to place waymarks and gifs of
 [https://docs.google.com/document/d/1xPTml8_yXYAUEZyP4VvAGgOk8h_z_yMzBFRdviXtrWU/edit?tab=t.0](https://docs.google.com/document/d/1xPTml8_yXYAUEZyP4VvAGgOk8h_z_yMzBFRdviXtrWU/edit?tab=t.0 "https://docs.google.com/document/d/1xPTml8_yXYAUEZyP4VvAGgOk8h_z_yMzBFRdviXtrWU/edit?tab=t.0")
 
 ### Video Guide
-Some strategies in the video may differ from what is presented in this written guide.
+:::warning
+Some strategies in the video may differ from what is presented in this written guide so please clarify with your party.
+:::
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jeHdCvPjKKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -33,5 +35,5 @@ Some strategies in the video may differ from what is presented in this written g
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MjUwMDI5MiwxOTc1NjQzMTQyXX0=
+eyJoaXN0b3J5IjpbLTQ5NDMzNzQxMywxOTc1NjQzMTQyXX0=
 -->
