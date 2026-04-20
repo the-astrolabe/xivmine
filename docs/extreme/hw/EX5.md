@@ -15,10 +15,15 @@ sidebar_custom_props:
 ## Suggested Resources
 
 ### Google Doc
-
-This is the raid g
+This is the raid guide I made with images of where to place waymarks and gifs of important mechanics
 
 [https://docs.google.com/document/d/1xPTml8_yXYAUEZyP4VvAGgOk8h_z_yMzBFRdviXtrWU/edit?tab=t.0](https://docs.google.com/document/d/1xPTml8_yXYAUEZyP4VvAGgOk8h_z_yMzBFRdviXtrWU/edit?tab=t.0 "https://docs.google.com/document/d/1xPTml8_yXYAUEZyP4VvAGgOk8h_z_yMzBFRdviXtrWU/edit?tab=t.0")
+
+### Video Guide
+Some strategies in the video may differ from what is presented in this written guide.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jeHdCvPjKKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
@@ -28,5 +33,5 @@ This is the raid g
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDA3OTE3NjAsMTk3NTY0MzE0Ml19
+eyJoaXN0b3J5IjpbMTI2MjUwMDI5MiwxOTc1NjQzMTQyXX0=
 -->
