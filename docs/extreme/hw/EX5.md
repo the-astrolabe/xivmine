@@ -44,15 +44,29 @@ For this attack, the North and East walls are paired and the South and West wall
 
 Following the second **Cauterize**, Nidhogg will touchdown dealing raid-wide damage and will again alternate between **Scarlet Whisper** and **Deafening Bellow**. 
 
-He will then cast either **Hot Tail** or **Hot Wing** followed by the alternate attack. For **Hot Tail**, Nidhogg will cast a fire attack through the centre of his body leaving safe areas to the outer sides of his hitbox. For **Hot Wing**, the attack will cleave the outside leaving only the area directly under his body safe. In between the 2 casts, **Horrid Roar** circles will appear below some players so it is important to wait until these circles appear before moving to the new safe area.
+He will then cast either **Hot Tail** or **Hot Wing** followed by the alternate attack. For **Hot Tail**, Nidhogg will cast a fire attack through the centre of his body leaving safe areas to the outer sides of his hitbox. For **Hot Wing**, the attack will cleave the outer sides leaving only the centre area under his body safe. In between the 2 casts, **Horrid Roar** circles will appear below some players so it is important to wait until these circles appear before moving to the new safe area.
 
 Eg. Nidhogg casts **Hot Wing** so everyone stacks underneath his body. The party then waits there until the circles appear and then moves to the sides past the edge of his hitbox to avoid **Hot Tail**.
 
 The two attacks can occur in either order but if you push Nidhogg below 80% health, you can skip the second attack.
 
+### Phase 2
 
+Nidhogg will leave the arena and three adds will spawn: a Shadow Brobinyak to the West, a Shadow Falak to the East, and a Shadow Dragon to the North.
+
+Main tank will aggro the Brobinyak using a ranged attack while off tank will do the same to the Falak. The Dragon cannot be aggro’d and instead runs around targeting random players with their attacks. I suggest using your tank/healer pairs for this to make sure both tanks are kept topped up during the add attacks.
+
+The Brobinyak puts Physical Vulnerability up on its tank and if left alive too long will cast **Original Sin** which prevents tank swapping. The whole party (except off tank) will need to focus this add down first and kill it before it can cast or put 3 stacks on the main tank. Three stacks from either add on a tank is an insta-kill. The Brobinyak’s attacks deal low damage so it is possible to save mitigations as long as the healer is keeping the tank topped up.
+
+While the party is focussing down the Brobinyak, off tank will deal with two attacks from the Falak which cause Magic Vulnerability Up. The first causes minor damage and does not need to be mitigated but will need to be topped up after by the healer. The second attack (which is approx. 10 seconds later) will instantly kill if not heavily mitigated. And as I mentioned above, a third attack will kill regardless of mitigation. This means that as soon as the Brobinyak is dead, main tank needs to provoke the Falak and take the third attack so as not to kill the off tank. The party focuses down the Falak and then turns it’s attention to the Dragon.
+
+While all of this is going on, the Dragon will be running around casting two attacks on random players. One is a **Fireball** that he shoots at the farthest player. I suggest assigning a ranged player to bait them away from the party. It is a slow attack that is easy to doge, you simply move from where you were standing when her brings his hands up to his face. The second attack is **Ripper Claw** which is a melee cleave on a random player. Again, this is easy to dodge just watch for him to wind up his arm and move from in front of him.
+
+When the Dragon is close to half health, it will let out a roar that inflicts Vulnerability Up on the party. From this point forward, being hit with any of the Dragon’s attacks will instantly kill you.
+
+Once the Dragon is dead, Nidhogg will cast **Mortal Chorus** which removes the vulnerability and causes a knockback. The party will then group up middle for a raid-wide and Phase 4 begins! However, if you fail to kill all 3 adds, the party will wipe.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTY1NzkyMzQsLTE4ODY5MTI1NjMsMT
-k3NTY0MzE0Ml19
+eyJoaXN0b3J5IjpbNzE5OTYyODEwLC0xODg2OTEyNTYzLDE5Nz
+U2NDMxNDJdfQ==
 -->
