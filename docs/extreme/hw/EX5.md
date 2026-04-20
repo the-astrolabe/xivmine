@@ -78,12 +78,24 @@ MT will be one of the players to receive a blue chain so OT must provoke to keep
 
 Three blue orbs will spawn that explode in a small AoE. Each red chain will take one orb. Blue chains avoid the orbs at all cost. Healers should be sure to top the red chain players up after the explosions but do not shield because the more damage the red chain players take, the faster the claw dies. Once the orbs have been absorbed, one blue chain player will receive a stack marker, **Eye of the Tyrant**. This player and the three red chain players will stack middle to share the damage. The other two blue chains and the players without chains **_should not stack_**.
 
-After the stack, the chains will switch so pay attention in case your colour has changed. This time, OT will receive a blue chain so MT will need to provoke back. The cycle repeats with red chains grabbing orbs and stacking on the blue player in the middle while everyone focusses down the blue fang.
+After the stack, the chains will switch so pay attention in case your colour has changed. This time, OT will receive a blue chain so MT will need to provoke back. The cycle repeats with red chains grabbing orbs and stacking on the one blue chain player in the middle while everyone focuses down the blue fang.
 
 If you are successful in defeating both the fang and the claw, the phase continues. If either are left standing, they will self-destruct and wipe the party.
 
-This will all be followed by more tank busters and then Phase 5 begins!
+This will all be followed by more tank busters and then Phase 4 begins!
+
+### Phase 4
+
+**Darkdragon** towers will spawn at markers 1-4 around the arena and here we spread into our pairs that were assigned at the start.
+
+MT will take the tower at 1 and their healer partner will move to A as they will receive a large AoE circle (**High Jump**). OT will take the tower at 2 and their healer partner will move to B.
+
+For the 2 DPS pairs, the player in each pair with the highest health will take the tower at either 3 or 4 and the other player will move toward a wall in the same area. The healers will be far away so use your self-heals when necessary.
+
+After towers leave their fire puddles and the healers drop their AOE circles, each healer will receive **Soul Tether** and these will need to be intercepted by their respective tank. You can do this by having the healers move toward the centre of the North wall or by moving South along the East and West walls, whichever you prefer.
+
+At the same time, some players will be marked with AOE circles and one with **Super Jump** which spawns a proximity meteor. All of these should be dropped against a wall, preferably near a corner. **Geirskogul** rectangles will also be spawning around the arena and need to be avoided. Once tethers resolve and the player is hit with **Super Jump**, the entire party needs to move as far away from the meteor as possible while avoiding the tower, fire puddles, circle AOEs, and rectangles. If you do all of this successfully, you move on to the final phase!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTI5Nzg0NTMsLTE4ODY5MTI1NjMsMT
+eyJoaXN0b3J5IjpbLTE5MzM2NzgyNTUsLTE4ODY5MTI1NjMsMT
 k3NTY0MzE0Ml19
 -->
