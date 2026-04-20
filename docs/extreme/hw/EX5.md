@@ -26,6 +26,10 @@ Some strategies in the video may differ from what is presented in this written g
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jeHdCvPjKKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Detailed Guide
+
+### Preparation
+
 
 
 
@@ -35,5 +39,5 @@ Some strategies in the video may differ from what is presented in this written g
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDMzNzQxMywxOTc1NjQzMTQyXX0=
+eyJoaXN0b3J5IjpbODAzNzc4NDEzLDE5NzU2NDMxNDJdfQ==
 -->
