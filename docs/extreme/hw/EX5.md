@@ -42,11 +42,17 @@ The group should stack in the middle of the arena to bait **Horrid Roar** circle
 
 For this attack, the North and East walls are paired and the South and West walls are paired so if he appears North for his first attack, his second attack will be either South or West.
 
-### Phase 2
+Following the second **Cauterize**, Nidhogg will touchdown dealing raid-wide damage and will again alternate between **Scarlet Whisper** and **Deafening Bellow**. 
+
+He will then cast either **Hot Tail** or **Hot Wing** followed by the alternate attack. For **Hot Tail**, Nidhogg will cast a fire attack through the centre of his body leaving safe areas to the outer sides of his hitbox. For **Hot Wing**, the attack will cleave the outside leaving only the area directly under his body safe. In between the 2 casts, **Horrid Roar** circles will appear below some players so it is important to wait until these circles appear before moving to the new safe area.
+
+Eg. Nidhogg casts **Hot Wing** so everyone stacks underneath his body. The party then waits there until the circles appear and then moves to the sides past the edge of his hitbox to avoid **Hot Tail**.
+
+The two attacks can occur in either order but if you push Nidhogg below 80% health, you can skip the second attack.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDgyOTc0NywtMTg4NjkxMjU2MywxOT
-c1NjQzMTQyXX0=
+eyJoaXN0b3J5IjpbLTE5OTY1NzkyMzQsLTE4ODY5MTI1NjMsMT
+k3NTY0MzE0Ml19
 -->
