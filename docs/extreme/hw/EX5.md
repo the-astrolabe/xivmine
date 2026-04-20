@@ -74,16 +74,16 @@ All this action will be followed by **Ala Morn**, a heavy-hitting tank buster on
 
 Nidhogg will summon his **Fang** (blue) and his **Claw** (red) and 3 players will receive blue chains and 3 red chains. The entire party will focus down the blue fang and players with blue chains need to avoid taking damage because it will cause the fang to heal itself. The red claw on the other hand, is defeated by players with red chains taking damage.
 
-MT will be one of the players to receive a blue chain so OT must provoke to keep Nidhogg from applying damage to MT as this would heal the blue fang. 
+MT will be one of the players to receive a blue chain so OT must provoke to keep Nidhogg from applying damage to MT as this would heal the blue fang. Be prepared for an **Ala Morn** tank buster during this.
 
-Three blue orbs will spawn that explode in a small AoE. Each red chain will take one orb. Blue chains avoid the orbs at all cost. Healers should be sure to top the red chain players up after the explosions but do not mitigate because the more damage the red chain players take, the faster the claw dies. Once the orbs have been absorbed, one blue chain player will receive a stack marker, **Eye of the Tyrant**. This player and the three red chain players will stack middle to share the damage. The other two blue chains and the players without chains **_should not stack_**.
+Three blue orbs will spawn that explode in a small AoE. Each red chain will take one orb. Blue chains avoid the orbs at all cost. Healers should be sure to top the red chain players up after the explosions but do not shield because the more damage the red chain players take, the faster the claw dies. Once the orbs have been absorbed, one blue chain player will receive a stack marker, **Eye of the Tyrant**. This player and the three red chain players will stack middle to share the damage. The other two blue chains and the players without chains **_should not stack_**.
 
-After the stack, the chains will switch so pay attention in case your colour has changed. This time off tank will receive a blue chain so main tank will need to provoke back and again, keep Nidhogg away from the party. The cycle repeats with red chains grabbing orbs and stacking on the blue player in the middle while everyone focusses down the blue fang.
+After the stack, the chains will switch so pay attention in case your colour has changed. This time, OT will receive a blue chain so MT will need to provoke back. The cycle repeats with red chains grabbing orbs and stacking on the blue player in the middle while everyone focusses down the blue fang.
 
 If you are successful in defeating both the fang and the claw, the phase continues. If either are left standing, they will self-destruct and wipe the party.
 
 This will all be followed by more tank busters and then Phase 5 begins!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDY3ODI0MywtMTg4NjkxMjU2MywxOT
-c1NjQzMTQyXX0=
+eyJoaXN0b3J5IjpbLTEzNTI5Nzg0NTMsLTE4ODY5MTI1NjMsMT
+k3NTY0MzE0Ml19
 -->
