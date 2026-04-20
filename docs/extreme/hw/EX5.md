@@ -30,14 +30,7 @@ Some strategies in the video may differ from what is presented in this written g
 
 ### Preparation
 
-
-
-
-
-
-
-
-
+Assign waymark A to healer 1, waymark B to healer 2, waymark 1 to main tank, waymark 2 to off tank, and 2 dps to each of waymarks 3 and 4 (each waymakr o
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAzNzc4NDEzLDE5NzU2NDMxNDJdfQ==
+eyJoaXN0b3J5IjpbLTEyNDUyNDI1NzcsMTk3NTY0MzE0Ml19
 -->
