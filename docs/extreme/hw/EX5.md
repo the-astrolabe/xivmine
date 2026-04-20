@@ -94,8 +94,16 @@ For the 2 DPS pairs, at least 1 player needs to stand in the towers at 3 and 4. 
 
 After towers leave their fire puddles and the healers drop their AoE circles, each healer will receive **Soul Tether** and these will need to be intercepted by their respective tank. You can do this by having the healers move toward the centre of the North wall or by moving South along the East and West walls, whichever you prefer.
 
-At the same time, some players will be marked with AoE circles and one with **Super Jump** which spawns a proximity meteor. All of these should be dropped against a wall, preferably near a corner. **Geirskogul** rectangles will also be spawning around the arena and need to be avoided. Once tethers resolve and the player is hit with **Super Jump**, the entire party needs to move as far away from the meteor as possible while avoiding the tower, fire puddles, circle AOEs, and rectangles. If you do all of this successfully, you move on to the final phase!
+At the same time, some players will be marked with AoE circles and one with **Super Jump** which spawns a proximity meteor. All of these should be dropped against a wall, preferably near a corner. **Geirskogul** rectangles will also be spawning around the arena and need to be avoided. Once tethers resolve and the player is hit with **Super Jump**, the entire party needs to move as far away from the meteor as possible while avoiding the tower, fire puddles, bleed circle AoEs, and rectangles. If you do all of this successfully, you move on to the final phase!
+
+### Phase 5
+
+The final phase begins with a **Cauterize** divebomb across the arena. Players should stack up in middle as soon as the transition begins to bait **Horrid Roar** circles. Nidhogg can come from any direction but if you face your camera Northeast you will be able to see the shadow if he appears behind you. Six players instead of four will have spread markers this time so be sure not to overlap.
+
+The entire party will then stack South for **Akh Morn**. This is a stack mechanic that will hit four times during the first one and each one after will add an extra hit acting as a soft enrage since it will eventually hit so many times that it is impossible to heal through. After the last hit, everyone will remain stacked together while and watch as fireballs spawn around the arena in one of 2 alternating patterns.
+
+The first pattern has fireballs spawn in two corners of the arena first and then in the middle. These will explode in a plus shape in the order they appear so positioning for this phase is very important. After a few auto attacks, Nidhogg will start to cast hot wing and **Horrid Roar** circles will appear underneath the party. Since the only safe place during hot wing is along the centre of his hitbox and the corner fireballs will be exploding first in this pattern, the entire party must move underneath Nidhogg’s belly as soon as the circles appear. You will wait here for the corner fireballs to explode and then everyone runs to the same corner they were assigned for tower phase. Some players will have stack markers so you will need to spread in the corners but be sure not to move to close to the centre of any of the walls since the centre fireballs will be exploding shortly after. Once the first pattern is complete, the party will once again stack either North or South for **Akh Morn**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MzU5NDQ4MCwtMTg4NjkxMjU2MywxOT
-c1NjQzMTQyXX0=
+eyJoaXN0b3J5IjpbNTI0ODI0NDc3LC0xODg2OTEyNTYzLDE5Nz
+U2NDMxNDJdfQ==
 -->
