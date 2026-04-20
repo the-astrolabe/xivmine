@@ -8,6 +8,13 @@ sidebar_custom_props:
 ---
 
 ![Nidhogg](/extreme/hw/ex5-banner.webp)
+
+>**Written by:**
+>Nienna Wynstone@Kraken
+
+##Summary
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTY0MzE0Ml19
+eyJoaXN0b3J5IjpbLTIwNjc1MjIyMDQsMTk3NTY0MzE0Ml19
 -->
