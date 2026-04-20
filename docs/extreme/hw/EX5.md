@@ -30,7 +30,7 @@ Some strategies in the video may differ from what is presented in this written g
 
 ### Preparation
 
-Assign waymark A to healer 1, waymark B to healer 2, waymark 1 to main tank, waymark 2 to off tank, and 2 dps to each of waymarks 3 and 4 (each waymakr o
+Assign waymark A to Healer 1, waymark B to Healer 2, waymark 1 to Main Tank, waymark 2 to Off Tank, and 2 DPS to each of waymarks 3 and 4 (each waymark only needs 1 player but we assign 2 DPS for redundancy in case of a death or other mistake).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDUyNDI1NzcsMTk3NTY0MzE0Ml19
+eyJoaXN0b3J5IjpbLTQ2MDA2MDY3MSwxOTc1NjQzMTQyXX0=
 -->
