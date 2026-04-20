@@ -54,9 +54,9 @@ The two attacks can occur in either order but if you push Nidhogg below 80% heal
 
 Nidhogg will leave the arena and three adds will spawn: a **Shadow Brobinyak** to the West, a **Shadow Falak** to the East, and a **Shadow Dragon** to the North.
 
-MT will aggro the Brobinyak using a ranged attack while OT will do the same to the Falak. The Dragon cannot be aggro’d and instead runs around targeting random players with their attacks. I suggest using tank/healer pairs for this to make sure both tanks are kept topped up during the add attacks.
+MT will aggro the Brobinyak using a ranged attack while OT will do the same to the Falak. Be sure to point the adds toward teh edge of the arena to prevent cleaving other party members. I suggest using tank/healer pairs for this to make sure both tanks are kept topped up during the add attacks. The Dragon cannot be aggro’d and instead runs around targeting random players with their attacks (described below). 
 
-The Brobinyak puts Physical Vulnerability up on its tank and if left alive too long will cast **Original Sin** which prevents tank swapping. The whole party (except off tank) will need to focus this add down first and kill it before it can cast or put 3 stacks on the main tank. Three stacks from either add on a tank is an insta-kill. The Brobinyak’s attacks deal low damage so it is possible to save mitigations as long as the healer is keeping the tank topped up.
+The Brobinyak puts Physical Vulnerability up on its tank and if left alive too long will cast **Original Sin** which prevents tank swapping. The whole party (except OT) will need to focus this add down first and kill it before it can cast OR put 3 stacks on MT. Three stacks from either add on a tank is an insta-kill. The Brobinyak’s attacks deal low damage so it is possible to save mitigations as long as the healer is keeping the tank topped up.
 
 While the party is focussing down the Brobinyak, off tank will deal with two attacks from the Falak which cause Magic Vulnerability Up. The first causes minor damage and does not need to be mitigated but will need to be topped up after by the healer. The second attack (which is approx. 10 seconds later) will instantly kill if not heavily mitigated. And as I mentioned above, a third attack will kill regardless of mitigation. This means that as soon as the Brobinyak is dead, main tank needs to provoke the Falak and take the third attack so as not to kill the off tank. The party focuses down the Falak and then turns it’s attention to the Dragon.
 
@@ -67,6 +67,6 @@ When the Dragon is close to half health, it will let out a roar that inflicts Vu
 Once the Dragon is dead, Nidhogg will cast **Mortal Chorus** which removes the vulnerability and causes a knockback. The party will then group up middle for a raid-wide and Phase 4 begins! However, if you fail to kill all 3 adds, the party will wipe.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQ2OTE5NzUsLTE4ODY5MTI1NjMsMT
-k3NTY0MzE0Ml19
+eyJoaXN0b3J5IjpbLTM4NTA2MzMyNiwtMTg4NjkxMjU2MywxOT
+c1NjQzMTQyXX0=
 -->
