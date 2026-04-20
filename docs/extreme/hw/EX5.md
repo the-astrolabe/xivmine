@@ -36,8 +36,12 @@ Assign waymark A to Healer 1, waymark B to Healer 2, waymark 1 to Main Tank (**M
 
 The MT will point Nidhogg north with the rest of the party grouped up on the south end of the hitbox. He will begin by alternating two abilities: **Scarlet Whisper** which is a cleave on MT, and **Deafening Bellow** which is a raid-wide attack.
 
-Nidhogg will leave the arena and prepare for **
+Nidhogg will leave the arena to prepare for **Cauterize**, a divebomb fire attack that cleaves almost half of the arena. He can either appear on the side or in the middle. If he is on one of the sides of a wall, you will need to move across centre in the other direction. If he appears in the middle of a wall, only the two edges are safe. 
+
+The group should stack in the middle of the arena to bait **Horrid Roar** circles while looking for Nidhogg to appear at one edge of the arena.  as indicated in the diagrams below. Some players will also receive a stack marker so make sure to spread these out in the safe area. After the first divebomb, the party should return to the middle of the arena to once again bait the circles and watch for Nidhogg to appear again for the second divebomb. 
+
+For this attack, the North and East walls are paired and the South and West walls are paired so if he appears North for his first attack, his second attack will be either South or West.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQ2MDYwMjIsMTk3NTY0MzE0Ml19
+eyJoaXN0b3J5IjpbLTk5NjIxNzg0NiwxOTc1NjQzMTQyXX0=
 -->
