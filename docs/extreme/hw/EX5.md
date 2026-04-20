@@ -12,9 +12,17 @@ sidebar_custom_props:
 >**Written by:**
 >Nienna Wynstone@Kraken
 
-##Summary
+## Summary
+
+### Raidplans:
+
+-
+
+
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjc1MjIyMDQsMTk3NTY0MzE0Ml19
+eyJoaXN0b3J5IjpbMTkwNTQ0NDczMCwxOTc1NjQzMTQyXX0=
 -->
