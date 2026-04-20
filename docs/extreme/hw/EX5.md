@@ -58,15 +58,15 @@ MT will aggro the Brobinyak using a ranged attack while OT will do the same to t
 
 The Brobinyak puts Physical Vulnerability up on its tank and if left alive too long will cast **Original Sin** which prevents tank swapping. The whole party (except OT) will need to focus this add down first and kill it before it can cast OR put 3 stacks on MT. Three stacks from either add on a tank is an insta-kill unless invuln is used. The Brobinyak’s attacks deal low damage so it is possible to save mitigations as long as the healer is keeping the tank topped up.
 
-While the party is focusing down the Brobinyak, OT will deal with two attacks from the Falak which cause Magic Vulnerability Up. The first causes minor damage and does not need to be mitigated but will need to be topped up after by the healer. The second attack (which is approx. 10 seconds later) will instantly kill if not mitigated and as mentioned above, a third attack will kill regardless of mitigation. This means that as soon as the Brobinyak is dead, main tank needs to provoke the Falak and take the third attack so as not to kill the off tank. The party focuses down the Falak and then turns it’s attention to the Dragon.
+While the party is focusing down the Brobinyak, OT will deal with two attacks from the Falak which cause Magic Vulnerability Up. The first causes minor damage and does not need to be mitigated but will need to be topped up after by the healer. The second attack (which is approx. 10 seconds later) will instantly kill if not mitigated and as mentioned above, a third attack will kill regardless of mitigation. This means that as soon as the Brobinyak is dead, MT needs to provoke the Falak and take the third attack so as not to kill the OT. The party focuses down the Falak and then turns it’s attention to the Dragon.
 
-While all of this is going on, the Dragon will be running around casting two attacks on random players. One is a **Fireball** that he shoots at the farthest player. I suggest assigning a ranged player to bait them away from the party. It is a slow attack that is easy to doge, you simply move from where you were standing when her brings his hands up to his face. The second attack is **Ripper Claw** which is a melee cleave on a random player. Again, this is easy to dodge just watch for him to wind up his arm and move from in front of him.
+While all of this is going on, the Dragon will be running around casting two attacks on random players. One is a **Fireball** that he shoots at the farthest player. It is suggested that the party assigns a ranged player to bait them away from the rest of the party. It is a slow attack that is easy to doge, you simply move from where you were standing when he brings his hands up to his face. The second attack is **Ripper Claw** which is a melee cleave on a random player. Again, this is easy to dodge just watch for him to wind up his arm and move from in front of him.
 
 When the Dragon is close to half health, it will let out a roar that inflicts Vulnerability Up on the party. From this point forward, being hit with any of the Dragon’s attacks will instantly kill you.
 
 Once the Dragon is dead, Nidhogg will cast **Mortal Chorus** which removes the vulnerability and causes a knockback. The party will then group up middle for a raid-wide and Phase 4 begins! However, if you fail to kill all 3 adds, the party will wipe.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MzcwMzIzNCwtMTg4NjkxMjU2MywxOT
-c1NjQzMTQyXX0=
+eyJoaXN0b3J5IjpbMjAwMzY2NTI2LC0xODg2OTEyNTYzLDE5Nz
+U2NDMxNDJdfQ==
 -->
