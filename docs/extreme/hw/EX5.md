@@ -8,3 +8,6 @@ sidebar_custom_props:
 ---
 
 ![Nidhogg](/extreme/hw/ex5-banner.webp)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk3NTY0MzE0Ml19
+-->
