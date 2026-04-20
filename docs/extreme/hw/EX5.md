@@ -12,11 +12,11 @@ sidebar_custom_props:
 >**Written by:**
 >Nienna Wynstone@Kraken
 
-## Summary
+## Suggested Resources
 
-### Raidplans:
+[https://docs.google.com/document/d/1xPTml8_yXYAUEZyP4VvAGgOk8h_z_yMzBFRdviXtrWU/edit?tab=t.0](https://docs.google.com/document/d/1xPTml8_yXYAUEZyP4VvAGgOk8h_z_yMzBFRdviXtrWU/edit?tab=t.0 "https://docs.google.com/document/d/1xPTml8_yXYAUEZyP4VvAGgOk8h_z_yMzBFRdviXtrWU/edit?tab=t.0")
 
--
+
 
 
 
@@ -24,5 +24,5 @@ sidebar_custom_props:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTQ0NDczMCwxOTc1NjQzMTQyXX0=
+eyJoaXN0b3J5IjpbLTE5MjUzODI0MjYsMTk3NTY0MzE0Ml19
 -->
