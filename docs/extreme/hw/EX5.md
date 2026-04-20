@@ -34,8 +34,10 @@ Assign waymark A to Healer 1, waymark B to Healer 2, waymark 1 to Main Tank (**M
 
 ### Phase 1
 
-The MT will 
+The MT will point Nidhogg north with the rest of the party grouped up on the south end of the hitbox. He will begin by alternating two abilities: **Scarlet Whisper** which is a cleave on MT, and **Deafening Bellow** which is a raid-wide attack.
+
+Nidhogg will leave the arena and prepare for **
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyMzU1MTg0LDE5NzU2NDMxNDJdfQ==
+eyJoaXN0b3J5IjpbLTE3MzQ2MDYwMjIsMTk3NTY0MzE0Ml19
 -->
