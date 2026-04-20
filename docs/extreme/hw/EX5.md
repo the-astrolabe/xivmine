@@ -14,6 +14,10 @@ sidebar_custom_props:
 
 ## Suggested Resources
 
+### Google Doc
+
+This is the raid g
+
 [https://docs.google.com/document/d/1xPTml8_yXYAUEZyP4VvAGgOk8h_z_yMzBFRdviXtrWU/edit?tab=t.0](https://docs.google.com/document/d/1xPTml8_yXYAUEZyP4VvAGgOk8h_z_yMzBFRdviXtrWU/edit?tab=t.0 "https://docs.google.com/document/d/1xPTml8_yXYAUEZyP4VvAGgOk8h_z_yMzBFRdviXtrWU/edit?tab=t.0")
 
 
@@ -24,5 +28,5 @@ sidebar_custom_props:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjUzODI0MjYsMTk3NTY0MzE0Ml19
+eyJoaXN0b3J5IjpbLTE4MDA3OTE3NjAsMTk3NTY0MzE0Ml19
 -->
