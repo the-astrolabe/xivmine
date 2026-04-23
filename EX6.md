@@ -48,7 +48,6 @@ The off tank should grab the tail which casts ***Scale Darts*** on it’s target
 
 ![Healer Positioning for Leviathan Extreme](https://github.com/courthole572/xivmine/blob/production/docs/extreme/arr/leviextremepositions.webp)
 
-<img src="/extreme/arr/leviextremepositions.webp" alt="Healer Positioning for Leviathan Extreme" width="500"/>
 
 Two melee ***Wavespine Sahagins*** will spawn at the North end of the arena and should be grabbed by the off tank and brought towards the tail. These need to be DPS’d down as quickly as possible. One mage ***Wavetooth Sahagin*** will spawn on the East and again will need to be DPS’d down as quickly as possible. If allowed to cast, this add will fear everyone in range and then drop a hysteria puddle. To prevent this, we have 1 melee DPS stun the add when it reaches 85-80% health and the off tank or another melee stun as soon as the first stun expires.
 
@@ -72,7 +71,7 @@ Once Leviathan is below 20% health, he will do one ***Spinning Dive*** lengthwis
 
 In Phase 3, you will need to deal with another mage ***Wavetooth Sahagin*** that will need to be stunned consecutively and DPS’d down quickly. Leviathan may do one last combination of 2 ***Spinning Dives*** followed by a ***Body Slam*** depending on damage level and then will go into his hard enrage ***Tsunami*** cast if not killed fast enough. **Good Luck!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODMwNjE2NjQsMjEwMDkzMDM5MywxMT
-c3MjQ4MzY2LDY2MDE4MjUxMCwzOTEzNTE2MjMsMTMwNDcyODUx
-LC0xNTYzMDUzNTE0LC0xMzc2NTIyODksMTM2ODgxOTgzNF19
+eyJoaXN0b3J5IjpbLTc5Njk2MDM0NiwyMTAwOTMwMzkzLDExNz
+cyNDgzNjYsNjYwMTgyNTEwLDM5MTM1MTYyMywxMzA0NzI4NTEs
+LTE1NjMwNTM1MTQsLTEzNzY1MjI4OSwxMzY4ODE5ODM0XX0=
 -->
