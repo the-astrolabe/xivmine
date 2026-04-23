@@ -37,6 +37,7 @@ The off tank should grab the tail which casts ***Scale Darts*** on it’s target
 
 <img src="docs/extreme/arr/leviexpositions.webp" alt="Healer Positioning For Leviathan Extreme" width="CHANGE THIS TO WHATEVER FITS WELL"/> 
 
+
 Two melee ***Wavespine Sahagins*** will spawn at the North end of the arena and should be grabbed by the off tank and brought towards the tail. These need to be DPS’d down as quickly as possible. One mage ***Wavetooth Sahagin*** will spawn on the East and again will need to be DPS’d down as quickly as possible. If allowed to cast, this add will fear everyone in range and then drop a hysteria puddle. To prevent this, we have 1 melee DPS stun the add when it reaches 85-80% health and the off tank or another melee stun as soon as the first stun expires.
 
 Next, four ***Gyre Spumes*** will spawn around the arena, one in each corner. This is a DPS check, if the spumes are left alive too long they will weaken the ***Elemental Converter*** and it will not provide enough protection during the Leviathan’s Ultimate attack, wiping the party. We start with the Spume at Leviathan’s tail and work our way around in a circle, killing the head Spume last. Off tank can move with the group around the arena but main tank must stay in their corner and can work on the Spume near them while waiting for the rest of the party to kill the other Spumes. Each Spume does raid-wide damage when it dies so it’s best to focus one down at a time.
@@ -59,6 +60,6 @@ Once Leviathan is below 20% health, he will do one ***Spinning Dive*** lengthwis
 
 In Phase 3, you will need to deal with another mage ***Wavetooth Sahagin*** that will need to be stunned consecutively and DPS’d down quickly. Leviathan may do one last combination of 2 ***Spinning Dives*** followed by a ***Body Slam*** depending on damage level and then will go into his hard enrage ***Tsunami*** cast if not killed fast enough. **Good Luck!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTU3NDk3MCwxMTc3NDM4NDMzLC0xND
+eyJoaXN0b3J5IjpbMjAwNTQ1NTQ0OCwxMTc3NDM4NDMzLC0xND
 g3OTY2Mzc0XX0=
 -->
