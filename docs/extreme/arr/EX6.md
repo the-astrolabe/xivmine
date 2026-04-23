@@ -51,14 +51,13 @@ Two ***Wavespine Sahagin*** will spawn and again, should be grabbed by the off t
 
 Four ***Gyre Spumes*** will appear again that can be killed in the same order as in phase 1. Additionally, 4 blue ***Wave Spume*** orbs will spawn around the arena and start moving toward the centre. These should not be attacked and they will explode after some time, doing high damage. When these spawn, the off tank will need to go centre and intersect all of them and pull them away from the party. Once away from the party, they will need to use their invuln to survive the explosions.
 
-Depending on DPS, there may be another set of 2 ***Spinning Dives*** followed by a ***Body Slam*** while you are working on killing the final Gyre Spume so be ready to dodge while also avoiding the off tank and their orbs.
+Depending on DPS, there may be another set of 2 ***Spinning Dives*** followed by a ***Body Slam*** while you are working on killing the final ***Gyre Spume*** so be ready to dodge while also avoiding the off tank and their orbs.
 
-Once Leviathan is below 20% health, he will do one Spinning Dive lengthwise across the arena signalling that it’s time to activate the converter again for protection from his Ultimate attack.
+Once Leviathan is below 20% health, he will do one ***Spinning Dive*** lengthwise across the arena signalling that it’s time to activate the ***Elemental Converter*** again for protection from his Ultimate attack.
 
-Phase 3
+## Phase 3
 
-In Phase 3, you will need to deal with another mage Wavetooth Sahagin that will need to be stunned consecutively and DPS’d down quickly. Leviathan may do one last combination of 2 Spinning Dives followed by a Body Slam depending on damage level and then will go into his hard enrage Tsunami cast if not killed fast enough. Good Luck!
+In Phase 3, you will need to deal with another mage ***Wavetooth Sahagin*** that will need to be stunned consecutively and DPS’d down quickly. Leviathan may do one last combination of 2 ***Spinning Dives*** followed by a ***Body Slam*** depending on damage level and then will go into his hard enrage ***Tsunami*** cast if not killed fast enough. **Good Luck!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjM5MjAxODQsLTE0ODc5NjYzNzRdfQ
-==
+eyJoaXN0b3J5IjpbMTE3NzQzODQzMywtMTQ4Nzk2NjM3NF19
 -->
