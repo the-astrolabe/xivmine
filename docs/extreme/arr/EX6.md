@@ -39,19 +39,19 @@ The off tank should grab the tail which casts ***Scale Darts*** on it’s target
 
 Two melee ***Wavespine Sahagins*** will spawn at the North end of the arena and should be grabbed by the off tank and brought towards the tail. These need to be DPS’d down as quickly as possible. One mage ***Wavetooth Sahagin*** will spawn on the East and again will need to be DPS’d down as quickly as possible. If allowed to cast, this add will fear everyone in range and then drop a hysteria puddle. To prevent this, we have 1 melee DPS stun the add when it reaches 85-80% health and the off tank or another melee stun as soon as the first stun expires.
 
-Next, four ***Gyre Spumes*** will spawn around the arena, one in each corner. This is a DPS check, if the spumes are left alive too long they will weaken the Elemental Converter and it will not provide enough protection during the Leviathan’s Ultimate attack, wiping the party. We start with the Spume at Leviathan’s tail and work our way around in a circle, killing the head Spume last. Off tank can move with the group around the arena but main tank must stay in their corner and can work on the Spume near them while waiting for the rest of the party to kill the other Spumes. Each Spume does raid-wide damage when it dies so it’s best to focus one down at a time.
+Next, four ***Gyre Spumes*** will spawn around the arena, one in each corner. This is a DPS check, if the spumes are left alive too long they will weaken the ***Elemental Converter*** and it will not provide enough protection during the Leviathan’s Ultimate attack, wiping the party. We start with the Spume at Leviathan’s tail and work our way around in a circle, killing the head Spume last. Off tank can move with the group around the arena but main tank must stay in their corner and can work on the Spume near them while waiting for the rest of the party to kill the other Spumes. Each Spume does raid-wide damage when it dies so it’s best to focus one down at a time.
 
-Once the Spumes are dead, Leviathan can do 1 of 2 things depending on his health at the time. If he is 60% health or below, he will do one Spinning Dive  lengthwise across the arena and then go into his Ultimate attack. In this case, as soon as you move out of the path of his dive, one player will need to interact with the Elemental Converter. If however Levithan is above 60% health, he will do 2 Spinning Dives followed by a Body Slam and return to the arena until he reaches 60% health, after which he will do the dive into ultimate mentioned above that requires the converter to be activated. The best place to stand when he is doing the dives/body slam combo is in the middle circle because this gives you the least distance to move to avoid his dives regardless of which direction he comes from.
+Once the Spumes are dead, Leviathan can do 1 of 2 things depending on his health at the time. If he is 60% health or below, he will do one ***Spinning Dive***  lengthwise across the arena and then go into his Ultimate attack. In this case, as soon as you move out of the path of his dive, one player will need to interact with the ***Elemental Converter***. If however Levithan is above 60% health, he will do 2 ***Spinning Dives*** followed by a ***Body Slam*** and return to the arena until he reaches 60% health, after which he will do the dive into ultimate mentioned above that requires the converter to be activated. The best place to stand when he is doing the dives/body slam combo is in the middle circle because this gives you the least distance to move to avoid his dives regardless of which direction he comes from.
 
-Phase 2
+## Phase 2
 
-In Phase 2, the railings break and players can now be knocked off into the water which is an instant death. He starts the phase off with a Body Slam so be sure to run away from the geyser that appears at one end of the arena or you will get tipped off into the sea.
+In Phase 2, the railings break and players can now be knocked off into the water which is an instant death. He starts the phase off with a ***Body Slam*** so be sure to run away from the geyser that appears at one end of the arena or you will get tipped off into the sea.
 
-Two Wavespine Sahagin will spawn and again, should be grabbed by the off tank and DPS’d down quickly. This will be followed by another combination of 2 Spinning Dives followed by a Body Slam.
+Two ***Wavespine Sahagin*** will spawn and again, should be grabbed by the off tank and DPS’d down quickly. This will be followed by another combination of 2 ***Spinning Dives*** followed by a ***Body Slam***.
 
-Four Gyre Spumes will appear again that can be killed in the same order as in phase 1. Additionally, 4 blue Wave Spume orbs will spawn around the arena and start moving toward the centre. These should not be attacked and they will explode after some time, doing high damage. When these spawn, the off tank will need to go centre and intersect all of them and pull them away from the party. Once away from the party, they will need to use their invuln to survive the explosions.
+Four ***Gyre Spumes*** will appear again that can be killed in the same order as in phase 1. Additionally, 4 blue ***Wave Spume*** orbs will spawn around the arena and start moving toward the centre. These should not be attacked and they will explode after some time, doing high damage. When these spawn, the off tank will need to go centre and intersect all of them and pull them away from the party. Once away from the party, they will need to use their invuln to survive the explosions.
 
-Depending on DPS, there may be another set of 2 Spinning Dives followed by a Body Slam while you are working on killing the final Gyre Spume so be ready to dodge while also avoiding the off tank and their orbs.
+Depending on DPS, there may be another set of 2 ***Spinning Dives*** followed by a ***Body Slam*** while you are working on killing the final Gyre Spume so be ready to dodge while also avoiding the off tank and their orbs.
 
 Once Leviathan is below 20% health, he will do one Spinning Dive lengthwise across the arena signalling that it’s time to activate the converter again for protection from his Ultimate attack.
 
@@ -59,5 +59,6 @@ Phase 3
 
 In Phase 3, you will need to deal with another mage Wavetooth Sahagin that will need to be stunned consecutively and DPS’d down quickly. Leviathan may do one last combination of 2 Spinning Dives followed by a Body Slam depending on damage level and then will go into his hard enrage Tsunami cast if not killed fast enough. Good Luck!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3NTI1ODc2LC0xNDg3OTY2Mzc0XX0=
+eyJoaXN0b3J5IjpbLTE1NjM5MjAxODQsLTE0ODc5NjYzNzRdfQ
+==
 -->
