@@ -8,3 +8,104 @@ sidebar_custom_props:
 ---
 
 ![Nidhogg](/extreme/hw/ex5-banner.webp)
+
+>**Written by:**
+>Nienna Wynstone@Kraken
+
+## Suggested Resources
+
+### Google Doc
+This is the raid guide I made with images of where to place waymarks and gifs of important mechanics
+
+[https://docs.google.com/document/d/1xPTml8_yXYAUEZyP4VvAGgOk8h_z_yMzBFRdviXtrWU/edit?tab=t.0](https://docs.google.com/document/d/1xPTml8_yXYAUEZyP4VvAGgOk8h_z_yMzBFRdviXtrWU/edit?tab=t.0 "https://docs.google.com/document/d/1xPTml8_yXYAUEZyP4VvAGgOk8h_z_yMzBFRdviXtrWU/edit?tab=t.0")
+
+### Video Guide
+:::warning
+Some strategies in the video may differ from what is presented in this written guide so please clarify with your party.
+:::
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jeHdCvPjKKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Detailed Guide
+
+### Preparation
+
+Assign waymark A to Healer 1, waymark B to Healer 2, waymark 1 to Main Tank (**MT**), waymark 2 to Off Tank (**OT**), and 2 DPS to each of waymarks 3 and 4 (each waymark only needs 1 player but we assign 2 DPS for redundancy in case of a death or other mistake).
+
+### Phase 1
+
+The MT will point Nidhogg north with the rest of the party grouped up on the south end of the hitbox. He will begin by alternating two abilities: **Scarlet Whisper** which is a cleave on MT, and **Deafening Bellow** which is a raid-wide attack.
+
+Nidhogg will leave the arena to prepare for **Cauterize**, a divebomb fire attack that cleaves almost half of the arena. He can either appear on the side or in the middle. If he is on one of the sides of a wall, you will need to move across centre in the other direction. If he appears in the middle of a wall, only the two edges are safe. 
+
+The group should stack in the middle of the arena to bait **Horrid Roar** circles while looking for Nidhogg to appear at one edge of the arena. Some players will also receive a spread marker so make sure to spread these out in the safe area. After the first divebomb, the party should return to the middle of the arena to once again bait the circles and watch for Nidhogg to appear again for the second divebomb. 
+
+For this attack, the North and East walls are paired and the South and West walls are paired so if he appears North for his first attack, his second attack will be either South or West.
+
+Following the second **Cauterize**, Nidhogg will touchdown dealing raid-wide damage and will again alternate between **Scarlet Whisper** and **Deafening Bellow**. 
+
+He will then cast either **Hot Tail** or **Hot Wing** followed by the alternate attack. For **Hot Tail**, Nidhogg will cast a fire attack through the centre of his body leaving safe areas to the outer sides of his hitbox. For **Hot Wing**, the attack will cleave the outer sides leaving only the centre area under his body safe. In between the 2 casts, **Horrid Roar** circles will appear below some players so it is important to wait until these circles appear before moving to the new safe area.
+
+Eg. Nidhogg casts **Hot Wing** so everyone stacks underneath his body. The party then waits there until the circles appear and then moves to the sides past the edge of his hitbox to avoid **Hot Tail**.
+
+The two attacks can occur in either order but if you push Nidhogg below 80% health, you can skip the second attack.
+
+### Phase 2
+
+Nidhogg will leave the arena and three adds will spawn: a **Shadow Brobinyak** to the West, a **Shadow Falak** to the East, and a **Shadow Dragon** to the North.
+
+MT will aggro the Brobinyak using a ranged attack while OT will do the same to the Falak. Be sure to point the adds toward teh edge of the arena to prevent cleaving other party members. It is suggested to use tank/healer pairs for this to make sure both tanks are kept topped up during the add attacks. The Dragon cannot be aggro’d and instead runs around targeting random players with their attacks (described below). 
+
+The Brobinyak puts Physical Vulnerability up on its tank and if left alive too long will cast **Original Sin** which prevents tank swapping. The whole party (except OT) will need to focus this add down first and kill it before it can cast OR put 3 stacks on MT. Three stacks from either add on a tank is an insta-kill unless invuln is used. The Brobinyak’s attacks deal low damage so it is possible to save mitigations as long as the healer is keeping the tank topped up.
+
+While the party is focusing down the Brobinyak, OT will deal with two attacks from the Falak which cause Magic Vulnerability Up. The first causes minor damage and does not need to be mitigated but will need to be topped up after by the healer. The second attack (which is approx. 10 seconds later) will instantly kill if not mitigated and as mentioned above, a third attack will kill regardless of mitigation. This means that as soon as the Brobinyak is dead, MT needs to provoke the Falak and take the third attack so as not to kill the OT. The party focuses down the Falak and then turns it’s attention to the Dragon.
+
+While all of this is going on, the Dragon will be running around casting two attacks on random players. One is a **Fireball** that he shoots at the farthest player. It is suggested that the party assigns a ranged player to bait them away from the rest of the party. It is a slow attack that is easy to doge, you simply move from where you were standing when he brings his hands up to his face. The second attack is **Ripper Claw** which is a melee cleave on a random player. Again, this is easy to dodge just watch for him to wind up his arm and move away from his front.
+
+When the Dragon is close to half health, it will let out a roar that inflicts Vulnerability Up on the party. From this point forward, being hit with any of the Dragon’s attacks will instantly kill you.
+
+Once the Dragon is dead, Nidhogg will cast **Mortal Chorus** which removes the vulnerability and causes a knockback. The party will then group up middle for a raid-wide and Phase 3 begins! However, if you fail to kill all 3 adds, the party will wipe.
+
+### Phase 3
+
+Nidhogg switches to human form for this phase and will begin with cleaves on MT so they should keep him in the centre of the arena but point him North with the party stacked on the south end of his hitbox as in Phase 1. Four of the DPS/healers will be targeted with **High Jump**, a large AoE circle. These players should spread the circles along the edge of the South wall. Once these AoEs drop, the players will need to move out of the bleed puddles and the entire party will need to dodge the **Geirskogul** rectangles that appear. At the same time, one of the **High Jump** victims will be targeted with **Soul Tether**. This is a purple tank buster tether attached to the player that OT will need to intercept and take away from the party as it will instantly kill anyone else. Be sure to mitigate the hit.
+
+All this action will be followed by **Ala Morn**, a heavy-hitting tank buster on MT that you need to mitigate and shield through and then we enter the second half of the phase.
+
+Nidhogg will summon his **Fang** (blue) and his **Claw** (red) and 3 players will receive blue chains and 3 red chains. The entire party will focus down the blue fang and players with blue chains need to avoid taking damage because it will cause the fang to heal itself. The red claw on the other hand, is defeated by players with red chains taking damage.
+
+MT will be one of the players to receive a blue chain so OT must provoke to keep Nidhogg from applying damage to MT as this would heal the blue fang. Be prepared for an **Ala Morn** tank buster during this.
+
+Three blue orbs will spawn that explode in a small AoE. Each red chain will take one orb. Blue chains avoid the orbs at all cost. Healers should be sure to top the red chain players up after the explosions but do not shield because the more damage the red chain players take, the faster the claw dies. Once the orbs have been absorbed, one blue chain player will receive a stack marker, **Eye of the Tyrant**. This player and the three red chain players will stack middle to share the damage. The other two blue chains and the players without chains **_should not stack_**.
+
+After the stack, the chains will switch so pay attention in case your colour has changed. This time, OT will receive a blue chain so MT will need to provoke back. The cycle repeats with red chains grabbing orbs and stacking on the one blue chain player in the middle while everyone focuses down the blue fang.
+
+If you are successful in defeating both the fang and the claw, the phase continues. If either are left standing, they will self-destruct and wipe the party.
+
+This will all be followed by more tank busters and then Phase 4 begins!
+
+### Phase 4
+
+**Darkdragon** towers will spawn at markers 1-4 around the arena and here we spread into our pairs that were assigned at the start.
+
+MT will take the tower at 1 and their healer partner will move to A as they will receive a large AoE circle (**High Jump**). OT will take the tower at 2 and their healer partner will move to B.
+
+For the 2 DPS pairs, at least 1 player needs to stand in the towers at 3 and 4. After the tower explodes, all DPS should move towards a wall for a potential AoE hit. The healers will be far away so use your self-heals when necessary.
+
+After towers leave their fire puddles and the healers drop their AoE circles, each healer will receive **Soul Tether** and these will need to be intercepted by their respective tank. You can do this by having the healers move toward the centre of the North wall or by moving South along the East and West walls, whichever you prefer.
+
+At the same time, some players will be marked with AoE circles and one with **Super Jump** which spawns a proximity meteor. All of these should be dropped against a wall, preferably near a corner. **Geirskogul** rectangles will also be spawning around the arena and need to be avoided. Once tethers resolve and the player is hit with **Super Jump**, the entire party needs to move as far away from the meteor as possible while avoiding the tower, fire puddles, bleed circle AoEs, and rectangles. If you do all of this successfully, you move on to the final phase!
+
+### Phase 5
+
+The final phase begins with a **Cauterize** divebomb across the arena. Players should stack up in middle as soon as the transition begins to bait **Horrid Roar** circles. Nidhogg can come from any direction but if you face your camera Northeast you will be able to see the shadow if he appears behind you. Six players instead of four will have spread markers this time so be sure not to overlap.
+
+The entire party will then stack South for **Akh Morn**. This is a stack mechanic that will hit four times during the first one and each one after will add an extra hit acting as a soft enrage since it will eventually hit so many times that it is impossible to heal through. After the last hit, everyone will remain stacked together at the edge of the hitbox while MT moves back North and you watch as fireballs spawn around the arena in one of 2 alternating patterns.
+
+The first pattern has fireballs spawn in two corners of the arena first and then in the middle. These will explode in a plus shape in the order they appear so positioning for this phase is very important. After a few auto attacks, Nidhogg will start to cast hot wing and **Horrid Roar** circles will appear underneath the party. Since the only safe place during hot wing is along the centre of his hitbox and the corner fireballs will be exploding first in this pattern, the entire party must move underneath Nidhogg’s belly as soon as the circles appear. You will wait here for the corner fireballs to explode and then everyone runs to the same corner they were assigned for tower phase. Some players will have stack markers so you will need to spread in the corners but be sure not to move to close to the centre of any of the walls since the centre fireballs will be exploding in a plus shape shortly after. Once the first pattern is complete, the party will once again stack for **Akh Morn**.
+
+During this phase, Nidhogg places **Bitter Hate** stacks on MT so during this second **Akh Morn** (and every one after) there will need to be a tank swap. The new tank should turn Nidhogg all the way around once the stack mechanic resolves because he will now do a couple of cleaves and if not turned away it will wipe the party.
+
+You will then see the second fireball pattern begin to take shape. This time the centre fireballs will spawn first, followed by one corner, and then the diagonally opposite corner and they will explode in the order they appeared. This means that the entire party needs to move to the corner where the last set of fireballs spawn. Eg. If the first set of corner fireballs spawn in the Southwest, the party should immediately start running to the Northeast corner. You will need to move all the way in the corner right up against the wall to once again bait **Horrid Roar** circles. When the circles appear, move toward centre just past the edge of the circle, wait for the centre balls to explode, and then start sprinting toward the middle of the arena. The second set of fireballs (in this example the ones in the Southwest corner) will explode and Nidhogg will begin casting **Hot Tail**. He can be facing any direction but the goal is to get across to the other side of him. Since in this example the Northeast fireballs are now preparing to explode, you will need to move either South or West to avoid **Hot Tail** depending on which direction Nidhogg is oriented.
+
+The party will once again stack for **Akh Morn**, the tanks will swap, and the new tank will turn Nidhogg around to avoid cleaving the party. You then need to prepare for the first fireball pattern to begin again. When you see the fireballs start to spawn, the party waits on the edge of the hitbox to bait the **Horrid Roar** circles. The pattern then continues as described above. These two patterns will alternate until Nidhogg is dead or you hit enrage with **Akh Morn** hitting too many times to heal through. **Good luck!**
