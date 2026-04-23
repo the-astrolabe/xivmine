@@ -35,7 +35,7 @@ The main tank should grab the head and stand in the corner because it casts ***D
 
 The off tank should grab the tail which casts ***Scale Darts*** on it’s target, a cleave that can be shared with the 4 DPS to reduce damage taken. Additionally, the off tank will be given ***Briny Mirror***, meaning that any direct heals they receive (single target or AoE) will put a debuff on the healer targeting them. The ***Briny Veil*** debuff reduces healing output and range with each stack so only one healer should be targeting the off tank at a time and the healers should switch around 5-6 stacks to prevent significant healing reduction. At 16 stacks, the healer will be stunned. Because of this debuff, we have the off tank stand in the corner with the 4 DPS stacked on the other end of the tail’s hitbox. If the head/main tank healer is positioned far enough away, this means that the cleave will still be shared between the tank and the DPS but that only the DPS will be hit with that healer’s AoE. This allows both healers to heal the DPS without getting stacks from hitting the off tank. Below is a rough diagram for party positioning.
 
-![Healer Positioning for Leviathan Extreme](docs/extreme/arr/leviextremepositions.webp)
+![Healer Positioning for Leviathan Extreme](/extreme/arr)
 
 Two melee ***Wavespine Sahagins*** will spawn at the North end of the arena and should be grabbed by the off tank and brought towards the tail. These need to be DPS’d down as quickly as possible. One mage ***Wavetooth Sahagin*** will spawn on the East and again will need to be DPS’d down as quickly as possible. If allowed to cast, this add will fear everyone in range and then drop a hysteria puddle. To prevent this, we have 1 melee DPS stun the add when it reaches 85-80% health and the off tank or another melee stun as soon as the first stun expires.
 
@@ -59,7 +59,7 @@ Once Leviathan is below 20% health, he will do one ***Spinning Dive*** lengthwis
 
 In Phase 3, you will need to deal with another mage ***Wavetooth Sahagin*** that will need to be stunned consecutively and DPS’d down quickly. Leviathan may do one last combination of 2 ***Spinning Dives*** followed by a ***Body Slam*** depending on damage level and then will go into his hard enrage ***Tsunami*** cast if not killed fast enough. **Good Luck!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwMTgyNTEwLDM5MTM1MTYyMywxMzA0Nz
-I4NTEsLTE1NjMwNTM1MTQsLTEzNzY1MjI4OSwxMzY4ODE5ODM0
-XX0=
+eyJoaXN0b3J5IjpbLTIwNjk2MDYyMTQsMzkxMzUxNjIzLDEzMD
+Q3Mjg1MSwtMTU2MzA1MzUxNCwtMTM3NjUyMjg5LDEzNjg4MTk4
+MzRdfQ==
 -->
