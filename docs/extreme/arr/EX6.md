@@ -9,7 +9,10 @@ sidebar_custom_props:
 
 ![Leviathan](/extreme/arr/ex6-banner.webp)
 
->Written By: Nienna Wynstone@Kraken
+>**Written by:** 
+>Nienna Wynstone@Kraken
+
+
 
 It is important to note that much of this fight is health percentage based and you may skip steps if your party has very high DPS.
 
@@ -59,8 +62,8 @@ Once Leviathan is below 20% health, he will do one ***Spinning Dive*** lengthwis
 
 In Phase 3, you will need to deal with another mage ***Wavetooth Sahagin*** that will need to be stunned consecutively and DPS’d down quickly. Leviathan may do one last combination of 2 ***Spinning Dives*** followed by a ***Body Slam*** depending on damage level and then will go into his hard enrage ***Tsunami*** cast if not killed fast enough. **Good Luck!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzI0ODM2Niw2NjAxODI1MTAsMzkxMz
-UxNjIzLDEzMDQ3Mjg1MSwtMTU2MzA1MzUxNCwtMTM3NjUyMjg5
-LC0xNTc2MTM0ODMsMjAwNTQ1NTQ0OCwxMTc3NDM4NDMzLC0xND
-g3OTY2Mzc0XX0=
+eyJoaXN0b3J5IjpbNDMwMzYyNDg2LDExNzcyNDgzNjYsNjYwMT
+gyNTEwLDM5MTM1MTYyMywxMzA0NzI4NTEsLTE1NjMwNTM1MTQs
+LTEzNzY1MjI4OSwtMTU3NjEzNDgzLDIwMDU0NTU0NDgsMTE3Nz
+QzODQzMywtMTQ4Nzk2NjM3NF19
 -->
