@@ -33,7 +33,7 @@ We start by attacking Leviathan at the end of the arena until he hits 10% health
 
 The main tank should grab the head and stand in the corner because it casts ***Dread Tide***, a high damage column AoE that can can kill other party members if directed towards the centre of the platform. The head also does ***Aquabreath***, a large AoE attack on the primary target that does low damage.
 
-The off tank should grab the tail which casts ***Scale Darts*** on it’s target, a cleave that can be shared with the 4 DPS to reduce damage taken. Additionally, the off tank will be given ***Briny Mirror***, meaning that any direct heals they receive (single target or AoE) will put a debuff on the healer targeting them. The ***Briny Veil*** debuff reduces healing output and range with each stack so only one healer should be targeting the off tank at a time and the healers should switch around 5-6 stacks to prevent significant healing reduction. At 16 stacks, the healer will be stunned. Because of this debuff, we have the off tank stand in the corner with the 4 DPS stacked on the other end of the tail’s hitbox. If the head/main tank healer is positioned far enough away, this means that the cleave will still be shared between the tank and the DPS but that only the DPS will be hit with that healer’s AoE. This allows both healers to heal the DPS without getting stacks from hitting the off tank.
+The off tank should grab the tail which casts ***Scale Darts*** on it’s target, a cleave that can be shared with the 4 DPS to reduce damage taken. Additionally, the off tank will be given ***Briny Mirror***, meaning that any direct heals they receive (single target or AoE) will put a debuff on the healer targeting them. The ***Briny Veil*** debuff reduces healing output and range with each stack so only one healer should be targeting the off tank at a time and the healers should switch around 5-6 stacks to prevent significant healing reduction. At 16 stacks, the healer will be stunned. Because of this debuff, we have the off tank stand in the corner with the 4 DPS stacked on the other end of the tail’s hitbox. If the head/main tank healer is positioned far enough away, this means that the cleave will still be shared between the tank and the DPS but that only the DPS will be hit with that healer’s AoE. This allows both healers to heal the DPS without getting stacks from hitting the off tank. Below is a rough diagram for party positioning.
 
 <img src="docs/extreme/arr/leviextremepositions.webp" alt="Healer Positioning for Leviathan Extreme" width="1920"/>
 
@@ -59,7 +59,7 @@ Once Leviathan is below 20% health, he will do one ***Spinning Dive*** lengthwis
 
 In Phase 3, you will need to deal with another mage ***Wavetooth Sahagin*** that will need to be stunned consecutively and DPS’d down quickly. Leviathan may do one last combination of 2 ***Spinning Dives*** followed by a ***Body Slam*** depending on damage level and then will go into his hard enrage ***Tsunami*** cast if not killed fast enough. **Good Luck!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjMwNTM1MTQsLTEzNzY1MjI4OSwtMT
-U3NjEzNDgzLDIwMDU0NTU0NDgsMTE3NzQzODQzMywtMTQ4Nzk2
-NjM3NF19
+eyJoaXN0b3J5IjpbLTgxODk4ODkzOCwtMTU2MzA1MzUxNCwtMT
+M3NjUyMjg5LC0xNTc2MTM0ODMsMjAwNTQ1NTQ0OCwxMTc3NDM4
+NDMzLC0xNDg3OTY2Mzc0XX0=
 -->
