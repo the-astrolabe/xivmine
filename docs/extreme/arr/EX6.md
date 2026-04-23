@@ -35,8 +35,7 @@ The main tank should grab the head and stand in the corner because it casts ***D
 
 The off tank should grab the tail which casts ***Scale Darts*** on it’s target, a cleave that can be shared with the 4 DPS to reduce damage taken. Additionally, the off tank will be given ***Briny Mirror***, meaning that any direct heals they receive (single target or AoE) will put a debuff on the healer targeting them. The ***Briny Veil*** debuff reduces healing output and range with each stack so only one healer should be targeting the off tank at a time and the healers should switch around 5-6 stacks to prevent significant healing reduction. At 16 stacks, the healer will be stunned. Because of this debuff, we have the off tank stand in the corner with the 4 DPS stacked on the other end of the tail’s hitbox. If the head/main tank healer is positioned far enough away, this means that the cleave will still be shared between the tank and the DPS but that only the DPS will be hit with that healer’s AoE. This allows both healers to heal the DPS without getting stacks from hitting the off tank.
 
-<img src="/extreme/arr/Leviathan EX Positioning.webp" alt="Waymarks placement for INSERT FIGHT EHRE" width="CHANGE THIS TO WHATEVER FITS WELL"/> `
+<img src="/extreme/arr/leviexpositions.webp" alt="Healer Positioning For Lev" width="CHANGE THIS TO WHATEVER FITS WELL"/> `
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODIzOTIxMzEsLTE0ODc5NjYzNzRdfQ
-==
+eyJoaXN0b3J5IjpbLTc0ODI3MzUwNiwtMTQ4Nzk2NjM3NF19
 -->
