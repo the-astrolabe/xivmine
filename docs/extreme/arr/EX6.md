@@ -18,11 +18,13 @@ sidebar_custom_props:
 :::warning
 Some strategies in the video may differ from what is presented in this written guide so please clarify with your party.
 :::
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ykTu2Gligzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ykTu2Gligzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Detailed Guide
 
 It is important to note that much of this fight is health percentage based and you may skip steps if your party has very high DPS.
 
-## Abilities
+### Abilities
 
 **Body Slam**- Leviathan disappears and a geyser (water spout) will appear in the water at one end of the arena. This indicates that Leviathan will be jumping out of the water and slamming down on the platform, causing it to tip in that direction. Players must run to the opposite end of the arena, away from the geyser to prevent being knocked off into the water.
 
@@ -36,7 +38,7 @@ It is important to note that much of this fight is health percentage based and y
 
 **Grand Fall**- Waterbomb AoEs that appear on the farthest 2 players from the centre of the arena each time Leviathan disappears. Having party members move near the edges of the platform when Tidal Roar occurs will help to bait these out of the way for dodging the upcoming dives.
 
-## Phase 1
+### Phase 1
 
 We start by attacking Leviathan at the end of the arena until he hits 10% health. At this point he will disappear and perform a ***Body Slam*** and then split into head and tail. He has the ***Veil of the Whorl*** condition, indicating that the head will reflect physical ranged damage back at the player and the tail reflects magical damage. Melee damage is not reflected.
 
@@ -52,7 +54,7 @@ Next, four ***Gyre Spumes*** will spawn around the arena, one in each corner. Th
 
 Once the Spumes are dead, Leviathan can do 1 of 2 things depending on his health at the time. If he is 60% health or below, he will do one ***Spinning Dive***  lengthwise across the arena and then go into his Ultimate attack. In this case, as soon as you move out of the path of his dive, one player will need to interact with the ***Elemental Converter***. If however Levithan is above 60% health, he will do 2 ***Spinning Dives*** followed by a ***Body Slam*** and return to the arena until he reaches 60% health, after which he will do the dive into ultimate mentioned above that requires the converter to be activated. The best place to stand when he is doing the dives/body slam combo is in the middle circle because this gives you the least distance to move to avoid his dives regardless of which direction he comes from.
 
-## Phase 2
+### Phase 2
 
 In Phase 2, the railings break and players can now be knocked off into the water which is an instant death. He starts the phase off with a ***Body Slam*** so be sure to run away from the geyser that appears at one end of the arena or you will get tipped off into the sea.
 
@@ -64,12 +66,12 @@ Depending on DPS, there may be another set of 2 ***Spinning Dives*** followed by
 
 Once Leviathan is below 20% health, he will do one ***Spinning Dive*** lengthwise across the arena signalling that it’s time to activate the ***Elemental Converter*** again for protection from his Ultimate attack.
 
-## Phase 3
+### Phase 3
 
 In Phase 3, you will need to deal with another mage ***Wavetooth Sahagin*** that will need to be stunned consecutively and DPS’d down quickly. Leviathan may do one last combination of 2 ***Spinning Dives*** followed by a ***Body Slam*** depending on damage level and then will go into his hard enrage ***Tsunami*** cast if not killed fast enough. **Good Luck!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzk5ODA2MjAsMTE3NzI0ODM2Niw2Nj
-AxODI1MTAsMzkxMzUxNjIzLDEzMDQ3Mjg1MSwtMTU2MzA1MzUx
-NCwtMTM3NjUyMjg5LC0xNTc2MTM0ODMsMjAwNTQ1NTQ0OCwxMT
-c3NDM4NDMzLC0xNDg3OTY2Mzc0XX0=
+eyJoaXN0b3J5IjpbMjEwMDkzMDM5MywxMTc3MjQ4MzY2LDY2MD
+E4MjUxMCwzOTEzNTE2MjMsMTMwNDcyODUxLC0xNTYzMDUzNTE0
+LC0xMzc2NTIyODksLTE1NzYxMzQ4MywyMDA1NDU1NDQ4LDExNz
+c0Mzg0MzMsLTE0ODc5NjYzNzRdfQ==
 -->
