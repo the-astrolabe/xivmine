@@ -110,6 +110,5 @@ You will then see the second fireball pattern begin to take shape. This time the
 
 The party will once again stack for **Akh Morn**, the tanks will swap, and the new tank will turn Nidhogg around to avoid cleaving the party. You then need to prepare for the first fireball pattern to begin again. When you see the fireballs start to spawn, the party waits on the edge of the hitbox to bait the **Horrid Roar** circles. The pattern then continues as described above. These two patterns will alternate until Nidhogg is dead or you hit enrage with **Akh Morn** hitting too many times to heal through. **Good luck!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5MDczNDAyLC0xODg2OTEyNTYzLDE5Nz
-U2NDMxNDJdfQ==
+eyJoaXN0b3J5IjpbNTU5MDczNDAyXX0=
 -->
