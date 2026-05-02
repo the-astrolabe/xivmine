@@ -52,7 +52,7 @@ Two melee ***Wavespine Sahagins*** will spawn at the North end of the arena and 
 
 Next, four ***Gyre Spumes*** will spawn around the arena, one in each corner. This is a DPS check, if the spumes are left alive too long they will weaken the ***Elemental Converter*** and it will not provide enough protection during the Leviathan’s Ultimate attack, wiping the party. We start with the Spume at Leviathan’s tail and work our way around in a circle, killing the head Spume last. Off tank can move with the group around the arena but main tank must stay in their corner and can work on the Spume near them while waiting for the rest of the party to kill the other Spumes. Each Spume does raid-wide damage when it dies so it’s best to focus one down at a time.
 
-Once the Spumes are dead, Leviathan can do 1 of 2 things depending on his health at the time. If he is 60% health or below, he will do one ***Spinning Dive***  lengthwise across the arena and then go into his Ultimate attack. In this case, as soon as you move out of the path of his dive, one player will need to interact with the ***Elemental Converter***. If however Levithan is above 60% health, he will do 2 ***Spinning Dives*** followed by a ***Body Slam*** and return to the arena until he reaches 60% health, after which he will do the dive into ultimate mentioned above that requires the converter to be activated. The best place to stand when he is doing the dives/body slam combo is in the middle circle because this gives you the least distance to move to avoid his dives regardless of which direction he comes from.
+If all the Spumes die before Leviathan leaves the arena, he will do one ***Spinning Dive***  lengthwise across the arena and then go into his Ultimate attack. In this case, as soon as you move out of the path of his dive, one player will need to interact with the ***Elemental Converter***. If however Leviathan leaves the arena *before* all the Spumes are dead, he will do 2 ***Spinning Dives*** followed by a ***Body Slam*** and then return to the arena until he reaches 60% health, after which he will do the dive into ultimate mentioned above that requires the converter to be activated. The best place to stand when he is doing the dives/body slam combo is in the middle circle because this gives you the least distance to move to avoid his dives regardless of which direction he comes from.
 
 ### Phase 2
 
@@ -70,9 +70,9 @@ Once Leviathan is below 20% health, he will do one ***Spinning Dive*** lengthwis
 
 In Phase 3, you will need to deal with another mage ***Wavetooth Sahagin*** that will need to be stunned consecutively and DPS’d down quickly. Leviathan may do one last combination of 2 ***Spinning Dives*** followed by a ***Body Slam*** depending on damage level and then will go into his hard enrage ***Tsunami*** cast if not killed fast enough. **Good Luck!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODQ5MDI1MSwxNTA1NzI1MzMyLDIxMD
-A5MzAzOTMsMTE3NzI0ODM2Niw2NjAxODI1MTAsMzkxMzUxNjIz
-LDEzMDQ3Mjg1MSwtMTU2MzA1MzUxNCwtMTM3NjUyMjg5LC0xNT
-c2MTM0ODMsMjAwNTQ1NTQ0OCwxMTc3NDM4NDMzLC0xNDg3OTY2
-Mzc0XX0=
+eyJoaXN0b3J5IjpbLTEzNjAwNjk0MTIsLTUxODQ5MDI1MSwxNT
+A1NzI1MzMyLDIxMDA5MzAzOTMsMTE3NzI0ODM2Niw2NjAxODI1
+MTAsMzkxMzUxNjIzLDEzMDQ3Mjg1MSwtMTU2MzA1MzUxNCwtMT
+M3NjUyMjg5LC0xNTc2MTM0ODMsMjAwNTQ1NTQ0OCwxMTc3NDM4
+NDMzLC0xNDg3OTY2Mzc0XX0=
 -->
